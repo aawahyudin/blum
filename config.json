@@ -1,0 +1,9 @@
+{
+    "auto_claim": true,
+    "auto_task": true,
+    "auto_game": true,
+    "low": "50000",
+    "high": "100000",
+    "clow": "5",
+    "chigh": "10"
+}
